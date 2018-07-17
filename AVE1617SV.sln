@@ -1,0 +1,39 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MapperReflect", "MapperReflect\MapperReflect.csproj", "{F672F5A9-B40F-45EB-800F-F1C1C20F23BF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MapperReflectTest", "MapperReflectTest\MapperReflectTest.csproj", "{5F6F6F35-B030-4293-98EC-F4B316B93A36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapperReflectEmit", "MapperReflectEmit\MapperReflectEmit.csproj", "{045BB714-F8E9-4FBD-ACA9-1725FA74C61D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapperReflectEmitTest", "MapperReflectEmitTest\MapperReflectEmitTest.csproj", "{7586F26B-7D50-47B7-986A-2692FFCB3DCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F672F5A9-B40F-45EB-800F-F1C1C20F23BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F672F5A9-B40F-45EB-800F-F1C1C20F23BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F672F5A9-B40F-45EB-800F-F1C1C20F23BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F672F5A9-B40F-45EB-800F-F1C1C20F23BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F6F6F35-B030-4293-98EC-F4B316B93A36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F6F6F35-B030-4293-98EC-F4B316B93A36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F6F6F35-B030-4293-98EC-F4B316B93A36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F6F6F35-B030-4293-98EC-F4B316B93A36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{045BB714-F8E9-4FBD-ACA9-1725FA74C61D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{045BB714-F8E9-4FBD-ACA9-1725FA74C61D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{045BB714-F8E9-4FBD-ACA9-1725FA74C61D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{045BB714-F8E9-4FBD-ACA9-1725FA74C61D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7586F26B-7D50-47B7-986A-2692FFCB3DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7586F26B-7D50-47B7-986A-2692FFCB3DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7586F26B-7D50-47B7-986A-2692FFCB3DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7586F26B-7D50-47B7-986A-2692FFCB3DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
